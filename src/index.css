@@ -1,0 +1,14 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", serif;
+}
+.app{
+  min-height: 100vh;
+  /* display: grid; */
+background-color: #F0F4F8;
+
+}
